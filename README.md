@@ -1,4 +1,4 @@
-![xx](https://github.com/user-attachments/assets/cc69a508-c402-4c38-8b54-3ec16dfab81f)
+![xx](https://github.com/user-attachments/assets/41521f67-53f2-406c-a4a7-fdfe71bd7608)
 
 Usage
 AmyPic can be run using very simple 3 steps described below:
