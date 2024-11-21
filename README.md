@@ -7,11 +7,11 @@
 
 Welcome to AmyPic (Amyloid Precursor Protein Inhibitors pIC50 Value Prediction Tool), a powerful and user-friendly tool developed as part of a drug discovery and machine learning study. AmyPic is designed to predict the bioactivity (pIC50 value) of any compound against Amyloid Precursor Protein (APP), a critical target in Alzheimer's disease research.
 
-**Key Features:**
+###**Key Features:**
 
 AmyPic accepts a text file with canonical SMILES of the intended compounds and uses machine learning algorithms to predict pIC50 values, providing insights into the efficacy of compounds targeting APP.
 
-**About Amyloid Precursor Protein (APP) and Its Therapeutic Implication**
+###**About Amyloid Precursor Protein (APP) and Its Therapeutic Implication**
 
 APP is a transmembrane protein involved in neuronal growth, repair, and synaptic function. In Alzheimer's disease, abnormal cleavage of APP by β-secretase and γ-secretase produces amyloid-beta peptides, which aggregate into plaques that disrupt neural communication and trigger neuroinflammation, a hallmark of the disease. Inhibiting APP cleavage can reduce amyloid-beta production, preventing plaque formation and potentially slowing the progression of Alzheimer's disease. By leveraging AmyPic, researchers can explore the potential of novel compounds in modulating APP activity and advancing Alzheimer's disease therapeutics.
 
