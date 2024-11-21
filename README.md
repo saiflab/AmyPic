@@ -1,4 +1,4 @@
-# AmyPic (Amyloid Precursor Protein Inhibitor pIC0 value Prediction Tool) version 1.0
+# AmyPic (Amyloid Precursor Protein Inhibitors pIC0 value Prediction Tool) version 1.0
 <p align="center">
 <img src="https://github.com/user-attachments/assets/41521f67-53f2-406c-a4a7-fdfe71bd7608" alt="AmyPic" />
 </p>
