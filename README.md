@@ -16,7 +16,9 @@ AmyPic accepts a text file with canonical SMILES of the intended compounds and u
 APP is a transmembrane protein involved in neuronal growth, repair, and synaptic function. In Alzheimer's disease, abnormal cleavage of APP by β-secretase and γ-secretase produces amyloid-beta peptides, which aggregate into plaques that disrupt neural communication and trigger neuroinflammation, a hallmark of the disease. Inhibiting APP cleavage can reduce amyloid-beta production, preventing plaque formation and potentially slowing the progression of Alzheimer's disease. By leveraging AmyPic, researchers can explore the potential of novel compounds in modulating APP activity and advancing Alzheimer's disease therapeutics.
 
 ## Motivation
-Alzheimer's disease is a devastating neurodegenerative disorder that affects millions of individuals worldwide. Accurate diagnosis of the disease is crucial for effective treatment and intervention. AITeQ aims to bridge the gap between RNA-Seq data and Alzheimer's disease diagnosis. By identifying a distinctive 5-gene signature through an integrative approach, we hope to aid researchers and clinicians in the field with accurate detection.
+Alzheimer's disease is a devastating neurodegenerative disorder that impacts millions of individuals worldwide, posing significant challenges for healthcare systems and families alike. The search for effective therapeutic agents remains a critical focus in combating this disease. Drug screening plays a pivotal role in drug discovery by identifying compounds with therapeutic potential, and determining the pIC50 value is a key step in this process.  
+
+AmyPic is designed to revolutionize Alzheimer's drug discovery by enabling precise and efficient screening of vast compound libraries in the initial stages. By streamlining this critical step, AmyPic reduces both the time and cost associated with identifying promising candidates, paving the way for innovative treatments that could alleviate the burden of Alzheimer's disease.
 
 ## Usage Instructions for AmyPic
 
