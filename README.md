@@ -5,7 +5,7 @@
 AmyPic can be run using very simple 3 steps described below:
 
 **Step 1:**
-Open [AmyPic on Colab](https://colab.research.google.com/github/saiflab/AmyPic/blob/main/AmyPic.ipynb).
+Open [AmyPic](https://colab.research.google.com/github/saiflab/AmyPic/blob/main/AmyPic.ipynb).
 
 **Step 2:**
 Upload your input file like the [example file](https://github.com/saiflab/AmyPic/blob/main/example.txt).
