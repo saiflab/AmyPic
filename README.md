@@ -9,20 +9,14 @@ Welcome to AmyPic (Amyloid Precursor Protein Inhibitors pIC50 Value Prediction T
 
 **Key Features:**
 
-Input: AmyPic accepts a text file containing the canonical SMILES of the intended compounds.
-Machine Learning: The tool utilizes advanced machine learning algorithms to deliver accurate predictions of pIC50 values, providing valuable insights into the efficacy of compounds targeting APP.
+AmyPic accepts a text file with canonical SMILES of the intended compounds and uses machine learning algorithms to predict pIC50 values, providing insights into the efficacy of compounds targeting APP.
 
-**About Amyloid Precursor Protein (APP):**
+**About Amyloid Precursor Protein (APP) and Its Therapeutic Implication**
 
-Function: APP is a transmembrane protein involved in neuronal growth, repair, and synaptic function.
-Alzheimer’s Disease: In Alzheimer's disease, APP undergoes abnormal cleavage by β-secretase and γ-secretase. This cleavage results in the production of amyloid-beta peptides, which aggregate to form plaques. These plaques disrupt neural communication and trigger neuroinflammation, a hallmark of Alzheimer's pathology.
+APP is a transmembrane protein involved in neuronal growth, repair, and synaptic function. In Alzheimer's disease, abnormal cleavage of APP by β-secretase and γ-secretase produces amyloid-beta peptides, which aggregate into plaques that disrupt neural communication and trigger neuroinflammation, a hallmark of the disease. Inhibiting APP cleavage can reduce amyloid-beta production, preventing plaque formation and potentially slowing the progression of Alzheimer's disease. By leveraging AmyPic, researchers can explore the potential of novel compounds in modulating APP activity and advancing Alzheimer's disease therapeutics.
 
-**Therapeutic Implication:**
-
-Inhibiting APP cleavage can reduce amyloid-beta production, thereby preventing plaque formation and potentially slowing the progression of Alzheimer's disease.
-By leveraging AmyPic, researchers can explore the potential of novel compounds in modulating APP activity and advancing Alzheimer's disease therapeutics.
 ## Motivation
-Alzheimer's disease is a devastating neurodegenerative disorder that affects millions of individuals worldwide. Accurate diagnosis of the diease is crucial for effective treatment and intervention. AITeQ aims to bridge the gap between RNA-Seq data and Alzheimer's disease diagnosis. By identifying a distinctive 5-gene signature through an integrative approach, we hope to aid researchers and clinicians in the field with accurate detection.
+Alzheimer's disease is a devastating neurodegenerative disorder that affects millions of individuals worldwide. Accurate diagnosis of the disease is crucial for effective treatment and intervention. AITeQ aims to bridge the gap between RNA-Seq data and Alzheimer's disease diagnosis. By identifying a distinctive 5-gene signature through an integrative approach, we hope to aid researchers and clinicians in the field with accurate detection.
 
 ## Usage Instructions for AmyPic
 
