@@ -7,11 +7,11 @@
 
 Welcome to AmyPic (Amyloid Precursor Protein Inhibitors pIC50 Value Prediction Tool), a powerful and user-friendly tool developed as part of a drug discovery and machine learning study. AmyPic is designed to predict the bioactivity (pIC50 value) of any compound against Amyloid Precursor Protein (APP), a critical target in Alzheimer's disease research.
 
-**Key Features:**
+### Key Features:
 
 AmyPic accepts a text file with canonical SMILES of the intended compounds and uses machine learning algorithms to predict pIC50 values, providing insights into the efficacy of compounds targeting APP.
 
-**About Amyloid Precursor Protein (APP) and Its Therapeutic Implication**
+### About Amyloid Precursor Protein (APP) and Its Therapeutic Implication
 
 APP is a transmembrane protein involved in neuronal growth, repair, and synaptic function. In Alzheimer's disease, abnormal cleavage of APP by β-secretase and γ-secretase produces amyloid-beta peptides, which aggregate into plaques that disrupt neural communication and trigger neuroinflammation, a hallmark of the disease. Inhibiting APP cleavage can reduce amyloid-beta production, preventing plaque formation and potentially slowing the progression of Alzheimer's disease. By leveraging AmyPic, researchers can explore the potential of novel compounds in modulating APP activity and advancing Alzheimer's disease therapeutics.
 
@@ -21,16 +21,16 @@ Alzheimer's disease is a devastating neurodegenerative disorder that impacts mil
 AmyPic is designed to revolutionize Alzheimer's drug discovery by enabling precise and efficient screening of vast compound libraries in the initial stages. By streamlining this critical step, AmyPic reduces both the time and cost associated with identifying promising candidates, paving the way for innovative treatments that could alleviate the burden of Alzheimer's disease.
 
 ## Features
-### Easy Integration 
-### Machine Learning
-### User-Friendly
-### Rapid Prediction 
-### Lightweight
+### 1. Easy Integration 
+### 2. Machine Learning
+### 3. User-Friendly
+### 4. Rapid Prediction 
+### 5. Lightweight
 
 
 ## Usage Instructions for AmyPic
 
-AmyPic can be run using very simple 3 steps described below:
+AmyPic can be run using the very simple 3 steps described below:
 
 **Step 1:**
 Open [AmyPic](https://colab.research.google.com/github/saiflab/AmyPic/blob/main/AmyPic.ipynb).
@@ -41,3 +41,13 @@ Upload your input file like the [example file](https://github.com/saiflab/AmyPic
 **Step 3:**
 Make predictions and view the results.
 
+**Step 4:** Predicted pIC50 value will be displayed as a table which can be easily downloaded.
+
+
+## Contact
+
+If you have any questions, feedback, or issues, please don't hesitate to contact us at tamim.ahmedsaif@gmail.com
+
+## License
+
+This project is licensed under the GPL-3.0 license.
