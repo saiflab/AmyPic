@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Welcome to AmyPic (Amyloid Precursor Protein Inhibitors pIC50 Value Prediction Tool), a powerful and user-friendly tool developed as part of a drug discovery and machine learning study. AmyPic is designed to predict the bioactivity (pIC50 value) of any compound against Amyloid Precursor Protein (APP), a critical target in Alzheimer's disease research.
+Welcome to AmyPic (pIC50 Prediction Tool for Amyloid Precursor Protein Inhibitors targeting Alzheimer's Disease), a powerful and user-friendly tool developed as part of a drug discovery and machine learning study. AmyPic is designed to predict the bioactivity (pIC50 value) of any compound against Amyloid Precursor Protein (APP), a critical target in Alzheimer's disease research.
 
 ### Key Features:
 
