@@ -20,6 +20,14 @@ Alzheimer's disease is a devastating neurodegenerative disorder that impacts mil
 
 AmyPic is designed to revolutionize Alzheimer's drug discovery by enabling precise and efficient screening of vast compound libraries in the initial stages. By streamlining this critical step, AmyPic reduces both the time and cost associated with identifying promising candidates, paving the way for innovative treatments that could alleviate the burden of Alzheimer's disease.
 
+## Features
+### Easy Integration 
+### Machine Learning
+### User-Friendly
+### Rapid Prediction 
+### Lightweight
+
+
 ## Usage Instructions for AmyPic
 
 AmyPic can be run using very simple 3 steps described below:
