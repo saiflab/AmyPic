@@ -51,3 +51,7 @@ If you have any questions, feedback, or issues, please don't hesitate to contact
 ## License
 
 This project is licensed under the GPL-3.0 license.
+
+## Ongoing Project
+
+Ahmed Saif;  AmyPic: A Machine Learning Tool for Predicting Bioactivity of Amyloid Precursor Protein Antagonists Targeting Alzheimer’s Disease.
